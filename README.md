@@ -108,6 +108,8 @@ Busco construir projetos cada vez mais completos, trabalhar de forma colaborativ
 
 <a href="mailto:vaoliveros.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Entre%20em%20contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/vaoliverosdev"><img src="https://img.shields.io/badge/GitHub-vaoliverosdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/victor-andres-oliveros-p%C3%A9rez-087035382"><img src="https://img.shields.io/badge/LinkedIn-Victor%20Oliveros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/oliverosvictor1111"><img src="https://img.shields.io/badge/Instagram-%40oliverosvictor1111-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 ### 🚀 Aprendendo, construindo e evoluindo a cada projeto.
 
