@@ -39,7 +39,7 @@ Sou um desenvolvedor em formação que gosta de aprender **colocando as ideias e
 
 ## Projetos em destaque
 
-### Coffee Lab
+### [Coffee Lab](https://github.com/vaoliverosdev/coffeeLab)
 
 Meu principal projeto autoral: uma aplicação web completa para **gerenciar, explorar e registrar cafés especiais**.
 
@@ -47,15 +47,19 @@ O projeto reúne autenticação, banco de dados, estoque, receitas, extrações,
 
 **Stack:** `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `JavaScript` `PWA` `IA`
 
+[Repositório](https://github.com/vaoliverosdev/coffeeLab)
+
 > Projeto criado para aplicar, em um único produto, conhecimentos de backend, frontend, banco de dados, APIs e Inteligência Artificial.
 
-### Simplificando Cifras
+### [Simplificando Cifras](https://github.com/thiagodestaquefiat-commits/simplificando_cifras)
 
 Projeto colaborativo de uma aplicação web progressiva para músicos, com recursos como biblioteca de músicas e cifras, transposição, capotraste, repertórios, equipes, chat, integração com Spotify, funcionamento offline e **Modo Palco**.
 
 Minha participação representa experiência com **Git/GitHub, desenvolvimento colaborativo e evolução de funcionalidades para uma necessidade real**.
 
 **Conceitos:** `JavaScript` `HTML` `CSS` `PWA` `APIs` `Git/GitHub`
+
+[Repositório](https://github.com/thiagodestaquefiat-commits/simplificando_cifras) · [Aplicação](https://simplificandocifras.netlify.app/)
 
 ---
 
