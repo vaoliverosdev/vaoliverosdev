@@ -2,9 +2,11 @@
 
 # 👋 Olá, eu sou Victor Oliveros
 
-### 💻 Desenvolvedor em formação | Python • Web • Dados • Inteligência Artificial
+### 💻 Desenvolvedor em formação • Python • Desenvolvimento Web • IA
 
-Construo projetos práticos para transformar aprendizado em aplicações reais.
+Transformo aprendizado em projetos reais, explorando desenvolvimento web, automação, dados e Inteligência Artificial.
+
+<img src="https://komarev.com/ghpvc/?username=vaoliverosdev&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+perfil" alt="Visualizações do perfil" />
 
 </div>
 
@@ -12,106 +14,101 @@ Construo projetos práticos para transformar aprendizado em aplicações reais.
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Desenvolvedor em formação, sempre buscando evoluir através de projetos reais.
-- 🚀 Gosto de trabalhar com aplicações completas, do frontend ao backend e banco de dados.
-- 🧠 Tenho interesse em **Python, desenvolvimento web, Inteligência Artificial e Machine Learning**.
-- 💡 Meu foco é aprender, construir e melhorar continuamente.
+Sou um desenvolvedor em formação focado em evoluir por meio da prática e da construção de aplicações completas.
+
+- 🚀 Desenvolvo projetos que conectam **frontend, backend, banco de dados e APIs**.
+- 🐍 Tenho o **Python** como uma das principais tecnologias dos meus estudos e projetos.
+- 🌐 Trabalho também com **JavaScript, HTML e CSS** no desenvolvimento de experiências web.
+- 🤖 Tenho interesse especial em **Inteligência Artificial, Machine Learning e automação**.
+- 🤝 Valorizo projetos colaborativos, organização de código, Git e GitHub como parte do processo de desenvolvimento.
+- 📚 Estou constantemente estudando novas tecnologias e transformando conhecimento em soluções práticas.
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-### 💻 Linguagens
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,fastapi,postgresql,git,github,vscode&perline=9" alt="Tecnologias e ferramentas" />
 
-### ⚙️ Backend & Banco de Dados
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgresql" />
-</p>
-
-### 🔧 Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+**Principais áreas:** `Python` • `FastAPI` • `JavaScript` • `HTML/CSS` • `PostgreSQL` • `APIs` • `PWA` • `Git/GitHub` • `IA`
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos e experiências
 
-### ☕ Coffee Lab
+### ☕ Coffee Lab — Projeto autoral
 
-Uma aplicação web completa para gerenciamento e exploração de cafés especiais.
+Aplicação web para gerenciamento e exploração de **cafés especiais**, criada para reunir diferentes áreas do desenvolvimento em um produto completo.
 
-O projeto reúne recursos como gerenciamento de cafés, estoque, receitas, extrações, diário sensorial, estatísticas, PWA offline e um **Barista com Inteligência Artificial**.
+O projeto inclui gerenciamento de cafés e estoque, receitas e extrações, diário sensorial, estatísticas, funcionamento como PWA e um **Barista com Inteligência Artificial**.
 
-**Stack principal:**
+**Tecnologias:** `Python` • `FastAPI` • `SQLAlchemy` • `PostgreSQL` • `JavaScript` • `HTML` • `CSS` • `PWA` • `IA`
 
-`Python` • `FastAPI` • `SQLAlchemy` • `PostgreSQL` • `JavaScript` • `HTML` • `CSS` • `PWA` • `IA`
+➡️ [Conhecer o Coffee Lab](https://github.com/vaoliverosdev/coffeeLab)
 
-🔗 [Ver Coffee Lab](https://github.com/vaoliverosdev/coffeeLab)
+<br>
+
+### 🎵 Simplificando Cifras — Projeto colaborativo
+
+Participo do desenvolvimento do **Simplificando Cifras**, uma aplicação web progressiva criada para ajudar músicos a organizar, estudar e executar repertórios.
+
+A plataforma reúne biblioteca de músicas e cifras, transposição, capotraste, diagramas de acordes, eventos e repertórios colaborativos, equipes, chat, integração com Spotify, funcionamento offline e um **Modo Palco** voltado ao uso durante ensaios e apresentações.
+
+Minha participação nesse projeto representa principalmente experiência com **desenvolvimento colaborativo, evolução de produto e construção de funcionalidades voltadas a uma necessidade real**.
+
+**Tecnologias e conceitos:** `JavaScript` • `HTML` • `CSS` • `PWA` • `APIs` • `Spotify` • `Git/GitHub` • `Desenvolvimento colaborativo`
+
+➡️ [Conhecer o Simplificando Cifras](https://github.com/thiagodestaquefiat-commits/simplificando_cifras)
 
 ---
 
-## 📚 Outros projetos
-
-### 🤖 Machine Learning
-
-Repositório voltado aos meus estudos e projetos relacionados a **Machine Learning, Inteligência Artificial e análise de dados**.
-
-🔗 [Ver repositório](https://github.com/vaoliverosdev/Machine_learning)
-
----
-
-## 📊 GitHub Stats
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vaoliverosdev&show_icons=true&hide_border=true&count_private=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaoliverosdev&theme=github_dark" alt="Resumo da atividade no GitHub" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaoliverosdev&layout=compact&hide_border=true" />
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaoliverosdev&theme=github_dark" alt="Repositórios por linguagem" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaoliverosdev&theme=github_dark" alt="Linguagens por commits" />
 
 </div>
 
 ---
 
-## 🐍 Minhas contribuições
+## 🐍 Contribuições
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/vaoliverosdev/vaoliverosdev/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaoliverosdev/vaoliverosdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaoliverosdev/vaoliverosdev/output/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições de Victor Oliveros" src="https://raw.githubusercontent.com/vaoliverosdev/vaoliverosdev/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Em evolução
 
-Continuar evoluindo como desenvolvedor, aprofundando meus conhecimentos em **Python, desenvolvimento web, dados e Inteligência Artificial**, enquanto construo projetos cada vez mais completos e úteis.
+Meu objetivo é continuar ampliando minha experiência como desenvolvedor, aprofundando conhecimentos em **Python, desenvolvimento web, arquitetura de aplicações, dados e Inteligência Artificial**.
+
+Busco construir projetos cada vez mais completos, trabalhar de forma colaborativa e desenvolver soluções que sejam úteis fora do ambiente de estudo.
 
 ---
 
 ## 📫 Contato
 
-<p align="left">
-  <a href="mailto:vaoliveros.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vaoliveros.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/vaoliverosdev">
-    <img src="https://img.shields.io/badge/GitHub-vaoliverosdev-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
 <div align="center">
 
-### 🚀 Sempre aprendendo. Sempre construindo.
+<a href="mailto:vaoliveros.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Entre%20em%20contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/vaoliverosdev"><img src="https://img.shields.io/badge/GitHub-vaoliverosdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaoliverosdev&style=flat-square)
+### 🚀 Aprendendo, construindo e evoluindo a cada projeto.
 
 </div>
