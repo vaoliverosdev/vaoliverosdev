@@ -4,9 +4,9 @@
 
 ### Python • Desenvolvimento Web • Inteligência Artificial
 
-**Desenvolvedor em formação, construindo projetos reais para transformar curiosidade em soluções.**
+**Desenvolvedor em formação, transformando aprendizado em projetos reais e experiências práticas.**
 
-[LinkedIn](https://www.linkedin.com/in/victor-andres-oliveros-p%C3%A9rez-087035382) · [GitHub](https://github.com/vaoliverosdev) · [Email](mailto:vaoliveros.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/victor-andres-oliveros-p%C3%A9rez-087035382) · [Instagram](https://www.instagram.com/oliverosvictor1111) · [GitHub](https://github.com/vaoliverosdev) · [Email](mailto:vaoliveros.dev@gmail.com)
 
 </div>
 
@@ -14,17 +14,13 @@
 
 ## 👋 Sobre mim
 
-Sou desenvolvedor em formação e venho construindo minha experiência principalmente com **Python, desenvolvimento web e Inteligência Artificial**.
+Sou estudante e desenvolvedor em formação, interessado principalmente em **Python, desenvolvimento web e Inteligência Artificial**.
 
-Gosto de aprender colocando a mão no código: começo com uma ideia, estudo o que preciso e transformo o aprendizado em uma aplicação que possa ser usada de verdade.
+Tenho buscado aprender tecnologia de forma prática: estudando, experimentando e transformando ideias em projetos que resolvam problemas ou possam ser utilizados no dia a dia. Gosto especialmente de acompanhar a evolução de uma aplicação desde a ideia inicial até uma versão funcional, entendendo como frontend, backend, banco de dados e APIs se conectam.
 
-Atualmente, meu foco está em:
+Além dos projetos autorais, também participo de desenvolvimento colaborativo, o que vem ampliando minha experiência com **Git, GitHub, organização de código, integração de funcionalidades e trabalho em equipe**.
 
-- 🐍 **Python** e desenvolvimento de aplicações
-- 🌐 **APIs e aplicações web** com FastAPI, JavaScript, HTML e CSS
-- 🗄️ **Bancos de dados** e integração de sistemas
-- 🤖 **Machine Learning e Inteligência Artificial**
-- 🔧 **Git/GitHub**, organização de código e desenvolvimento colaborativo
+Atualmente continuo aprofundando meus conhecimentos e construindo projetos cada vez mais completos, com o objetivo de evoluir profissionalmente na área de tecnologia.
 
 ---
 
@@ -54,16 +50,6 @@ O projeto reúne autenticação, banco de dados, estoque, receitas, extrações,
 
 ---
 
-### 🤖 [Machine Learning](https://github.com/vaoliverosdev/Machine_learning)
-
-Repositório dedicado aos meus estudos e experimentos em **Machine Learning e Inteligência Artificial com Python**.
-
-Aqui registro meu processo de aprendizagem por meio de notebooks, exercícios, experimentos e aplicações práticas.
-
-**Foco:** `Python` `Dados` `Machine Learning` `IA`
-
----
-
 ### 🎵 [Simplificando Cifras](https://github.com/thiagodestaquefiat-commits/simplificando_cifras)
 
 Projeto colaborativo de uma aplicação web progressiva para músicos, com recursos como biblioteca de músicas e cifras, transposição, capotraste, repertórios, equipes, chat, integração com Spotify, funcionamento offline e **Modo Palco**.
@@ -87,6 +73,8 @@ Meu objetivo é desenvolver experiência profissional em tecnologia, com foco em
 Se quiser trocar uma ideia sobre tecnologia, projetos ou oportunidades:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/victor-andres-oliveros-p%C3%A9rez-087035382)
+- 📸 [Instagram — @oliverosvictor1111](https://www.instagram.com/oliverosvictor1111)
+- 💻 [GitHub — @vaoliverosdev](https://github.com/vaoliverosdev)
 - 📧 [vaoliveros.dev@gmail.com](mailto:vaoliveros.dev@gmail.com)
 
 <div align="center">
